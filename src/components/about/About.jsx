@@ -11,7 +11,7 @@ const About = () => {
                 <div class="card">
                 <div class="box">
                         <i class="fas fa-paint-brush"></i>
-                        <div class="text">Web Developer</div>
+                        <div class="text">CMS Web Developer</div>
                         <p>I will Provide a Frontend Services of All Web Application</p>
                     </div>
                     
